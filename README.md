@@ -1,2 +1,2 @@
 # AulaGithub
-comandos e instruções sobre github
+comandos e instruções sobre github para leigos
