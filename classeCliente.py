@@ -4,3 +4,5 @@ class Cliente:
 
     def cumprimentar(self):
         return f"Olá, meu nome é {self.nome}"
+    def gritar(self,grito):
+        return f'Estou gritando !!!!!!${grito.upper}!!!!!!'
